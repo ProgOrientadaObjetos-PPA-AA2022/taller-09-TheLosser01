@@ -48,7 +48,7 @@ public class Prestamo {
     @Override
     public String toString() {
         String cadena = String.format("Beneficiario",
-                ;
+                );
     }
     return cadena;
 
